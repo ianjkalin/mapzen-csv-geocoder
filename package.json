@@ -1,0 +1,19 @@
+{
+  "name": "mapzen-geocode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "csv-string": "^2.3.0",
+    "fs": "^0.0.2",
+    "line-by-line": "^0.1.4",
+    "mustache": "^2.2.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
